@@ -16,7 +16,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3/
+
 
 <br />
 <br />
@@ -45,5 +45,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emintatar&layout=compact">
 </details>
+
+[linkedin]: https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3/
