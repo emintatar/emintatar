@@ -1,54 +1,25 @@
-# Hi 👋, I'm Emin
+<h1 align="center">Hi 👋, I'm Emin</h1>
+<h3 align="center">A passionate Software Developer fromT</h3>
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-## MIS Student at Marmara University | Trainee at 42İstanbul
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat" alt="emintatar" /> </p>
 
-<br />
-<br />
-<br />
+- 🔭 I’m currently working on **Software Development**
 
-### 🔭 I’m currently working on Software Development
-### 🌱 I’m currently learning C#
+- 🌱 I’m currently learning **C# - .NET Framework**
 
-<br />
-<br />
+- 📫 How to reach me **emintatar00@gmail.com**
 
-### Reach out to me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
+</p>
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emintatar&show_icons=true&locale=en&layout=compact" alt="emintatar" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emintatar&show_icons=true&locale=en" alt="emintatar" /></p>
 
-<br />
-<br />
-
-### Tech I use
-
- <ul class="menu">
-    <li></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width = "25" heigh = "25"></li>
-    <li><img src = "https://cdn3.iconfinder.com/data/icons/blue-ulitto/128/Developer_files_Bash_Shell_Script-512.png" width = "25" heigh = "25"></li>
-</ul>
-
-<br />
-<br />
-<br />
-<br />
-
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=emintatar&theme=radical">
-</details>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emintatar&layout=compact">
-</details>
-
-[linkedin]: https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emintatar&" alt="emintatar" /></p>
