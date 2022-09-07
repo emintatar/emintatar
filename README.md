@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **C# - .NET Framework**
+- 🌱 I’m currently learning **C# - .NET Framework - MSSQL**
 
 - 📫 How to reach me **emintatar00@gmail.com**
 
