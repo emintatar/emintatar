@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emintatar" alt="emintatar" /></a> </p>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **Web Development - Data Science**
 
-- 🌱 I’m currently learning **C# - .NET Framework - Microsoft SQL Server - Java**
+- 🌱 I’m currently learning **HTML - CSS - JS - Python**
 
 - 📫 How to reach me **emintatar00@gmail.com**
 
