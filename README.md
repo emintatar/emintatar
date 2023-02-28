@@ -30,11 +30,6 @@ tools, and concepts to push the boundaries of what's possible. In my spare time,
 projects, honing my craft and refining my skills
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=emintatard&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false"
-            alt="bc-expert" width="600px" /></a> </p>
-
-
 <p align="center">
     <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg"
         alt="snake"></center>
