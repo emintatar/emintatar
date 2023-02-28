@@ -5,7 +5,6 @@
 </p>
 
 <p align='center'>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emintatar" />
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px"
