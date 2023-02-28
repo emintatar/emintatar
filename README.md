@@ -4,10 +4,8 @@
             src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=emintatar" alt="emintatar" /></a>
-</p>
+<p align='center'>
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emintatar" />
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px"
