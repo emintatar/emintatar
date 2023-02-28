@@ -24,9 +24,10 @@
 <h2 align="left" font-weight="bold">About me</h2>
 <br><br>
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process
-of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and
-concepts. In addition to working on various solo full stack projects.
+- As a skilled developer, I'm dedicated to crafting polished web applications that combine clean design with intuitive
+functionality. I thrive on transforming ideas into reality through innovative solutions and enjoy exploring new skills,
+tools, and concepts to push the boundaries of what's possible. In my spare time, I work on a range of solo full-stack
+projects, honing my craft and refining my skills
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
