@@ -13,19 +13,6 @@
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
-
-
-## :pencil2: My Works: :trophy:
-- [Letskhabar](https://letskhabar.com)
-- [Vimal](https://vimal.letskhabar.com)
-- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
-- [Covid-19](https://covid-19.letskhabar.com/)
-- [Letskhabar Dev](https://dev.letskhabar.com)
-- [Bob](https://github.com/vimalverma558/Bob)
-- ### :robot: Open Source Packages :octocat:
-- prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
-- Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
-
 ## :trophy: Languages and Tools: :robot:
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img
