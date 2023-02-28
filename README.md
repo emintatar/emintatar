@@ -1,42 +1,26 @@
-<p align="center">
-    <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-    <br><br>
-    <samp>
-        Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> Hello, I'm Emin, a
-        junior software developer based in Turkey. My passion lies in creating polished web applications that seamlessly
-        blend elegant design with intuitive functionality. I take pride in transforming abstract ideas into tangible
-        realities through innovative solutions, constantly seeking to push the boundaries of what's possible. In my free
-        time, I work on a variety of solo full-stack projects to further refine my skills and explore new technologies.
-    </samp>
+<h1 align="center">Hi 👋, I'm Emin</h1>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat" alt="emintatar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emintatar" alt="emintatar" /></a> </p>
+
+- 🔭 I’m currently working on **Software Development**
+
+- 🌱 I’m currently learning **Web Development & Data Science**
+
+- 📫 How to reach me **emintatar00@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emintatar&show_icons=true&locale=en&layout=compact" alt="emintatar" /></p>
 
-## :trophy: Languages and Tools: :robot:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emintatar&show_icons=true&locale=en" alt="emintatar" /></p>
 
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img
-    src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
-
-
-## :mailbox: Get in touch: 💬
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg"
-    width="30px">](https://www.linkedin.com/in/vimalverma558/)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg"
-    width="30px">](https://dev.to/vimal)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-twitter.svg"
-    width="30px">](https://twitter.com/vimalverma558)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg"
-    width="30px">](mailto:kumarvimal558@gmail.com)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg"
-    width="30px">](https://vimal.letskhabar.com)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emintatar&" alt="emintatar" /></p>
