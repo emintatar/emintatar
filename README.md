@@ -1,83 +1,30 @@
-<h1 align="center"> Hi, Emin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-    <a href="https://github.com/fairyland0926"><img
-            src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<h1 align="center">Hi 👋, I'm Emin</h1>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat" alt="emintatar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emintatar" alt="emintatar" /></a> </p>
+
+- 🔭 I’m currently working on **Software Development**
+
+- 🌱 I’m currently learning **Web Development & Data Science**
+
+- 📫 How to reach me **emintatar00@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpiat0yuyqmus%2b7jlievxkq%3d%3d" height="30" width="40" /></a>
 </p>
 
-<p align='center'>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=emintatar" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px"
-    src="https://github-readme-stats.vercel.app/api?username=emintatar&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emintatar&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
-<br><br>
-<img align="right" alt="GIF"
-    src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat"
-    width="450px" height="300px" />
-<br><br>
-<img align="left"
-    src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"
-    width=50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>
-<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emintatar&show_icons=true&locale=en&layout=compact" alt="emintatar" /></p>
 
-- As a skilled developer, I'm dedicated to crafting polished web applications that combine clean design with intuitive
-functionality. I thrive on transforming ideas into reality through innovative solutions and enjoy exploring new skills,
-tools, and concepts to push the boundaries of what's possible. In my spare time, I work on a range of solo full-stack
-projects, honing my craft and refining my skills
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emintatar&show_icons=true&locale=en" alt="emintatar" /></p>
 
-<p align="center">
-    <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg"
-        alt="snake"></center>
-</p>
-<br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-    <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-        <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true"
-                width="200"></td>
-        <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true"
-                width="200"></td>
-        <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67"
-                width="200"></td>
-        <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67"
-                width="200"></td>
-        <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67"
-                width="200"></td>
-    </tr>
-    <tr>
-        <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true"
-                width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true"
-                width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-2-1175090.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
-    </tr>
-
-</table>
-<br />
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"
-        style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
-<div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/abdullah-emin-tatar-3a79751b3/">
-        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/emintatar">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png"
-            width="40" height="40"></a>
-</div>
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emintatar&" alt="emintatar" /></p>
