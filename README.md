@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **JavaScript and C# Ecosystems**
 
 - 📫 How to reach me **emintatar00@gmail.com**
 
