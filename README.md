@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat" alt="emintatar" /> </p>
 
 # 💫 About Me:
-### 🔭 I’m currently working on Full Stack Development<br>🌱 I’m currently learning JavaScript and .NET Ecosystems<br>📫 How to reach me emintatar00@gmail.com
+#### 🔭 I’m currently working on Full Stack Development<br>🌱 I’m currently learning JavaScript and .NET Ecosystems<br>📫 How to reach me emintatar00@gmail.com
 
 # 🌐 Socials:
 <p align="left">
