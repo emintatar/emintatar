@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Web Development & Data Science**
 
 - 📫 How to reach me **emintatar00@gmail.com**
+<div></div>
 
 
 # 🌐 Socials:
