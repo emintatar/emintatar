@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat" alt="emintatar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emintatar" alt="emintatar" /></a> </p>
-
 - 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Web Development & Data Science**
