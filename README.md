@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
-
+<h3 align="center">A passionate Junior Full Stack Developer from Turkey</h3>
+<
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emintatar&label=Profile%20views&color=0e75b6&style=flat" alt="emintatar" /> </p>
 
 # 💫 About Me:
